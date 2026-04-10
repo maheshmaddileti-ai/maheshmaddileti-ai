@@ -21,10 +21,10 @@ I'm a Data Analyst with a Post Graduate Program in Data Science & Machine Learni
 
 | Project | Domain | Tech |
 |---|---|---|
-| [Walmart Sales Forecasting](https://github.com/maheshmaddileti/walmart-sales-forecasting) | Retail | Python, XGBoost, Random Forest, EDA |
-| [Telecom Customer Churn](https://github.com/maheshmaddileti/telecom-customer-churn) | Telecom | Python, Logistic Regression, Random Forest |
-| [COVID-19 Trend Analysis](https://github.com/maheshmaddileti/covid19-trend-analysis) | Healthcare | Python, Prophet, Plotly, Time-Series |
-| [Netflix Recommendation Engine](https://github.com/maheshmaddileti/netflix-recommendation-engine) | Entertainment | Python, SVD, Collaborative Filtering |
+| [Walmart Sales Forecasting](https://github.com/maheshmaddileti-ai/walmart-sales-forecasting) | Retail | Python, XGBoost, Random Forest, EDA |
+| [Telecom Customer Churn](https://github.com/maheshmaddileti-ai/telecom-customer-churn) | Telecom | Python, Logistic Regression, Random Forest |
+| [COVID-19 Trend Analysis](https://github.com/maheshmaddileti-ai/covid19-trend-analysis) | Healthcare | Python, Prophet, Plotly, Time-Series |
+| [Netflix Recommendation Engine](https://github.com/maheshmaddileti-ai/netflix-recommendation-engine) | Entertainment | Python, SVD, Collaborative Filtering |
 
 ---
 
